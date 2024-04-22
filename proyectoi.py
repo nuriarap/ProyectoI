@@ -74,4 +74,4 @@ def dibujar_grafo(grafo, camino):
 print(camino_optimo_dijkstra(grafo_calles, calle, numero_calles)) #vemos el camino óptimo
 print(dibujar_grafo(grafo_calles, camino_optimo_dijkstra(grafo_calles, calle, numero_calles))) #dibujamos dicho camino óptimo mediante un grafo
 
-print("hola, qué tal")
+print("hola, qué tal?")
